@@ -1,1 +1,2 @@
-Git clone modify
+Git clone modify 
+from newBranch
